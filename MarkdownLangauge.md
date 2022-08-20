@@ -14,6 +14,7 @@
 ~~this text is strikethough~~
 <!-- Horizontal rule  -->
 ---
+<!-- or use this -->
 ___
 
 <!-- blockquotes -->
